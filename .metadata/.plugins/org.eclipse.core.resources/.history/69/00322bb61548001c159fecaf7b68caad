@@ -1,0 +1,9 @@
+package Demo;
+
+public class BasicJavaProgram {
+	public static void main(String[] args) {
+		int num1 = 10, num2 = 30;
+		System.out.println("Addition of two number is: "+ (num1+num2));
+	}
+
+}
