@@ -32,6 +32,8 @@ public class typeCasting {
 		System.out.println("Value of x: "+x);
 		System.out.println("Value of y: "+y);
 		
+		
+		
 	}
 }
 
