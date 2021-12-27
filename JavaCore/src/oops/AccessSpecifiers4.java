@@ -1,11 +1,11 @@
-package Oops;
+package oops;
 
-import Demo.*;
+import demo.*;
 
-public class accessSpecifiers4 {
+public class AccessSpecifiers4 {
 
 	public static void main(String[] args) {
-		proaccessspecifiers obj = new proaccessspecifiers();   
+		ProaccessSpecifiers obj = new ProaccessSpecifiers();   
 	    obj.display();  
 	}
 

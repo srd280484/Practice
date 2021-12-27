@@ -1,6 +1,6 @@
-package Oops;
+package oops;
 
-public class typeCasting {
+public class TypeCasting {
 
 	public static void main(String[] args) {
 		

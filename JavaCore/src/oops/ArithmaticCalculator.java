@@ -1,8 +1,8 @@
-package Oops;
+package oops;
 
 import java.util.Scanner;
 
-public class arithmaticCalculator {
+public class ArithmaticCalculator {
 	
 	static void sum(int num1, int num2) {
 		
@@ -28,7 +28,7 @@ public class arithmaticCalculator {
 	public static void main(String[] args) {
 		
 		System.out.println("Arithmatic Calculator");
-		arithmaticCalculator calc = new arithmaticCalculator();
+		ArithmaticCalculator calc = new ArithmaticCalculator();
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("\nEnter 1st number :");

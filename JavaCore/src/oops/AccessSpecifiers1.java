@@ -1,4 +1,4 @@
-package Oops;
+package oops;
 
 class defAccessSpecifier
 { 
@@ -8,7 +8,7 @@ class defAccessSpecifier
      } 
 } 
 
-public class accessSpecifiers1 {
+public class AccessSpecifiers1 {
 
 	public static void main(String[] args) {
 		//default

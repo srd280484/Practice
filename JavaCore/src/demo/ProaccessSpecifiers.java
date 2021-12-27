@@ -1,6 +1,6 @@
-package Demo;
+package demo;
 
-public class proaccessspecifiers {
+public class ProaccessSpecifiers {
 	//protected void display() 
 	public void display()
     { 

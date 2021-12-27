@@ -1,4 +1,4 @@
-package Oops;
+package oops;
 
 class priaccessspecifier 
 { 
@@ -8,7 +8,7 @@ class priaccessspecifier
     } 
 } 
 
-public class accessSpecifier2 {
+public class AccessSpecifiers2 {
 
 	public static void main(String[] args) {
 		//private
